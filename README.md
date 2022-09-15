@@ -1,4 +1,4 @@
-# omsketch
+# One Memory Access Sketch
 .NET implementation of the One Memory Access sketch
 
 See:
